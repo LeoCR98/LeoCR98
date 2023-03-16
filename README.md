@@ -1,4 +1,9 @@
 ### Hi there 👋
+🔭 I’m currently working on Ford Motor Company 
+🌱 I’m currently learning how to use Github
+🤔 I’m looking for help with coding 
+💬 Ask me about F1 and food 
+
 
 <!--
 **LeoCR98/LeoCR98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
